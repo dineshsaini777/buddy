@@ -1,0 +1,84 @@
+:root {
+    /* color */
+    --bluecolor: #B2C5D2;
+    --bgclr: #000C1C;
+    --white: #fff;
+    --gray: #80848C;
+    /* font-size */
+    --fs-14: 14px;
+    --fs-18: 18px;
+    --fs-25: 25px;
+    --fs-30: 30px;
+    --fs-21: 21px;
+    --fs-16: 16px;
+    --fs-50: 50px;
+    --fs-70: 70px;
+    /* font-weight */
+    --fw-400: 400;
+    --fw-600: 600;
+    --fw-500: 500;
+}
+
+.fs25 {
+    font-size: var(--fs-25);
+}
+
+.fs14 {
+    font-size: var(--fs-14);
+}
+
+.fs21 {
+    font-size: var(--fs-21);
+}
+
+.fs18 {
+    font-size: var(--fs-18);
+}
+
+.gray {
+    color: var(--gray);
+}
+
+.fs70 {
+    font-size: var(--fs-70);
+}
+
+.fs50 {
+    font-size: var(--fs-50);
+}
+
+.fw600 {
+    font-weight: 600;
+}
+
+.white {
+    color: var(--white);
+}
+
+.fs30 {
+    font-size: var(--fs-30);
+}
+
+.fs16 {
+    font-size: var(--fs-16);
+}
+
+.fw500 {
+    font-weight: var(--fw-500);
+}
+
+.fw400 {
+    font-weight: 400;
+}
+
+.bgclr {
+    background-color: var(--bgclr);
+}
+
+.fw400 {
+    font-weight: var(--fw-400);
+}
+
+.bluecolor {
+    color: var(--bluecolor);
+}
