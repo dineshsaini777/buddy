@@ -412,6 +412,7 @@ footer {
     fill: #009dff;
     background-color: #009Dff;
     border: 4px solid white;
+    box-shadow: 0 0 4px 17px #001931;
     top: 7%;
     border-radius: 50%;
     z-index: 1;
@@ -506,6 +507,9 @@ footer {
         padding-left: 0;
     }
 
+    .text-end {
+        text-align: 0 !important;
+    }
 
 
     .pt320 {
@@ -522,6 +526,10 @@ footer {
         bottom: 28%;
         left: 50%;
         margin-left: -3px;
+    }
+
+    .text-end {
+        text-align: right !important;
     }
 
     .pt320 {
